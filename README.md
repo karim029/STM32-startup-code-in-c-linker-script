@@ -1,0 +1,1 @@
+# STM32-startup-code-in-c-linker-script
